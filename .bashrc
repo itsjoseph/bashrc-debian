@@ -104,6 +104,7 @@ alias vus='nordvpn connect United_States'
 alias vcan='nordvpn connect CA'
 alias vdisc='nordvpn disconnect'
 alias kdenlive='flatpak run org.kde.kdenlive'
+alias boxes='flatpak run org.gnome.Boxes'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
