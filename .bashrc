@@ -105,6 +105,9 @@ alias vcan='nordvpn connect CA'
 alias vdisc='nordvpn disconnect'
 alias kdenlive='flatpak run org.kde.kdenlive'
 alias boxes='flatpak run org.gnome.Boxes'
+alias loupe='flatpak run org.gnome.Loupe'
+alias postman='flatpak run com.getpostman.Postman'
+alias gimp='flatpak run org.gimp.GIMP'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
