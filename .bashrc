@@ -108,6 +108,8 @@ alias boxes='flatpak run org.gnome.Boxes'
 alias loupe='flatpak run org.gnome.Loupe'
 alias postman='flatpak run com.getpostman.Postman'
 alias gimp='flatpak run org.gimp.GIMP'
+alias jboss-start='cd /home/conor/Downloads/Instalaciones/jboss-eap-8.0/bin; ./standalone.sh'
+alias jboss-log='cd /home/conor/Downloads/Instalaciones/jboss-eap-8.0/standalone; code . '
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
