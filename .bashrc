@@ -110,6 +110,9 @@ alias postman='flatpak run com.getpostman.Postman'
 alias gimp='flatpak run org.gimp.GIMP'
 alias jboss-start='cd /home/conor/Downloads/Instalaciones/jboss-eap-8.0/bin; ./standalone.sh'
 alias jboss-log='cd /home/conor/Downloads/Instalaciones/jboss-eap-8.0/standalone; code . '
+alias aws-mariadb='cd /home/conor/Downloads/Instalaciones; ssh -i "aws.pem" admin@ec2-3-17-64-228.us-east-2.compute.amazonaws.com'
+alias aws-adminclientes='cd /home/conor/Downloads/Instalaciones; ssh -i "aws.pem" admin@ec2-18-217-231-153.us-east-2.compute.amazonaws.com'
+alias aws-libreta='cd /home/conor/Downloads/Instalaciones; ssh -i "aws.pem" admin@ec2-3-17-74-206.us-east-2.compute.amazonaws.com'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
